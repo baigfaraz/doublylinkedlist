@@ -1,10 +1,6 @@
 #include <iostream>
 using namespace std;
-<<<<<<< HEAD
-//faraz
-=======
-//
->>>>>>> f41fbad4f467cb3fd205c2a760698be8e20ea310
+
 struct node
 {
     int info;

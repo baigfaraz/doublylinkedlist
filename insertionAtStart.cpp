@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//faraz
 struct node
 {
     int info;
